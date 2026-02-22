@@ -1,0 +1,23 @@
+{
+    "tg_bot": {
+        "token": ""
+    },
+    "meetings": [
+        {
+            "platform": "google-meet",
+            "name": "test1",
+            "day": 19,
+            "start_time": "22:06",
+            "end_time": "22:14",
+            "url": "https://meet.google.com/........."
+        },
+        {
+            "platform": "zoom",
+            "name": "test2",
+            "day": 20,
+            "start_time": "22:30",
+            "end_time": "22:59",
+            "url": "https://us05web.zoom.us/........"
+        }
+    ]
+}
